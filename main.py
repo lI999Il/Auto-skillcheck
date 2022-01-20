@@ -73,7 +73,7 @@ if __name__ == "__main__":
     if system == 'nt':
         ctypes.windll.kernel32.SetConsoleTitleW("DBD-Auto-SkillCheck | Made By Rdimo#6969")
     elif system == 'posix':
-        os.system("\033]0;DBD-Auto-SkillCheck | Made By Rdimo#6969\a")
+        os.system("\033]0;DBD-Auto-SkillCheck | Made By ℓσƒι♔נαкє#1442\a")
     sleep(0.5)
     print(f"{Fore.CYAN}Input your key for skill-checking {Fore.RED}")
 
